@@ -27,7 +27,7 @@ module.exports = () => {
       // Add service worker using webbox
       new InjectManifest({
         swSrc: './src-sw.js', 
-        swDest: '/src-sw.js', 
+        swDest: 'src-sw.js', 
       }),
 
       // Creates a manifest.json file.
