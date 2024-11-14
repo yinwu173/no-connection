@@ -34,10 +34,6 @@
 
 * Run `npm run start` to start up the backend and serve the client.
 
-### Screenshot of Application
-
-* 
-
 ### Deployed Render Link
 
 * Link: https://no-connection.onrender.com
